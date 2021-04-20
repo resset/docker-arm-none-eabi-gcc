@@ -1,0 +1,3 @@
+Simple Arch image with arm-none-eabi-gcc toolchain.
+
+Just run build.sh once and run.sh each time you want to use toolchain interactively.
